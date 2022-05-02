@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cookiesinfo</name>
+	<displayName><![CDATA[Cookies info ]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Displays a banner on the bottom of the store with cookies information ]]></description>
+	<author><![CDATA[Supportal.pl]]></author>
+	<tab><![CDATA[i18n_localization]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
